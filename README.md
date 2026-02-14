@@ -8,6 +8,12 @@ brew tap pipejesus/pipejesus
 
 2. Install the apps:
 
+growkit : quickly create a repo clone based on a starter repo
+
+```
+brew install pipejesus/pipejesus/growkit
+```
+
 towebp : commmand-line tool to convert all images in current directory to webp
 
 ```
